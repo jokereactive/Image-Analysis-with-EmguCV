@@ -1,7 +1,2 @@
 # Image-Analysis-with-EmguCV
-Image Analysis: Assignments from Class
-- Assignment 1:
-- Assignment 2:
-- Assignment 3:
-- Assignment 4:
-- Assignment 5:
+Image Analysis: Assignments from IIIT-Delhi, 2013
